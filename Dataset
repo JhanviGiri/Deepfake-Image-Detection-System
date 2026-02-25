@@ -1,4 +1,15 @@
-Datasets that Can be Used :
-https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images
-https://gts.ai/dataset-download/faceforensics-dataset
-https://ai.meta.com/datasets/dfdc
+Datasets that Can be used : 
+CelebA — CelebFaces Attributes Dataset (real faces)
+(https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
+Large dataset of real celebrity faces.
+
+AI-GENERATED (Fake) Dataset:
+CIFAKE — Real vs AI Generated Synthetic Images
+(https://www.kaggle.com/datasets/philosopher0808/real-vs-ai-generated-faces-dataset)
+Useful for AI_GENERATED class training.
+
+Deepfake-style dataset (usable as AI-edited examples):
+Real and Fake Face Detection Dataset (Kaggle)
+(https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection)
+Contains face images including photoshopped/fake images that can be used as AI-edited examples in project.
+
